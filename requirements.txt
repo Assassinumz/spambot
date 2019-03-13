@@ -1,0 +1,2 @@
+keyboard>=0.13.2
+pyautogui>=0.9.41
