@@ -14,7 +14,7 @@ pip install requirements.txt
 python spambot.py
 ```
 ## GUI Version
-There's also a GUI version of the spam bot avalaible but it's still unstable
+There's also a GUI version of the spam bot available but it's still unstable
 
 ## Have any questions ?
 * Ask me on [Discord](https://discord.gg/3nfQadt)
